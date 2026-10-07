@@ -1,0 +1,237 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1400" role="img" aria-labelledby="title desc">
+  <title id="title">Bryce McPherson for 6th Grade Vice President</title>
+  <desc id="desc">Campaign poster with a smiling student, bee graphic, and voting message.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#091d35"/>
+      <stop offset="100%" stop-color="#071827"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0%" stop-color="#fbe66d"/>
+      <stop offset="50%" stop-color="#f7d22d"/>
+      <stop offset="100%" stop-color="#dfb00b"/>
+    </linearGradient>
+    <linearGradient id="skin" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f7dbc0"/>
+      <stop offset="100%" stop-color="#e2b792"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000000" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="1400" fill="url(#bg)"/>
+
+  <g opacity="0.9">
+    <circle cx="130" cy="120" r="110" fill="#f7d43a" opacity="0.5"/>
+    <circle cx="240" cy="40" r="88" fill="#f7d43a" opacity="0.48"/>
+    <circle cx="480" cy="120" r="120" fill="#f7d43a" opacity="0.45"/>
+    <circle cx="870" cy="70" r="94" fill="#f7d43a" opacity="0.5"/>
+    <circle cx="1020" cy="150" r="104" fill="#f7d43a" opacity="0.45"/>
+    <circle cx="300" cy="330" r="120" fill="#f7d43a" opacity="0.42"/>
+    <circle cx="760" cy="320" r="150" fill="#f7d43a" opacity="0.42"/>
+    <circle cx="1040" cy="350" r="122" fill="#f7d43a" opacity="0.38"/>
+    <circle cx="190" cy="660" r="148" fill="#f7d43a" opacity="0.34"/>
+    <circle cx="560" cy="720" r="150" fill="#f7d43a" opacity="0.38"/>
+    <circle cx="960" cy="650" r="140" fill="#f7d43a" opacity="0.32"/>
+    <circle cx="150" cy="1000" r="130" fill="#f7d43a" opacity="0.34"/>
+    <circle cx="600" cy="980" r="138" fill="#f7d43a" opacity="0.36"/>
+    <circle cx="980" cy="1000" r="140" fill="#f7d43a" opacity="0.34"/>
+  </g>
+
+  <g opacity="0.92">
+    <path d="M25 200c40-60 130-70 170-20l-90 120-120 30c-25-40-18-86 40-130z" fill="#f6d23a" opacity="0.35"/>
+    <path d="M940 170c58-56 146-64 208 10l-110 110-140-8c-44-28-40-60 42-112z" fill="#f6d23a" opacity="0.35"/>
+    <path d="M190 790c62-50 166-24 196 46l-188 120-120-18c-40-52-22-104 112-148z" fill="#f6d23a" opacity="0.28"/>
+    <path d="M750 760c72-42 154-24 214 48l-170 112-132-14c-52-38-30-96 88-146z" fill="#f6d23a" opacity="0.28"/>
+  </g>
+
+  <g>
+    <path d="M64 246c18-70 70-120 120-130 22 0 42 10 48 38-44 18-70 34-80 64 22 0 44-2 68 10 12 6 26 22 18 40-46 18-74 12-96 6-28-10-52-26-78-28z" fill="#f0f0ee" opacity="0.9"/>
+    <path d="M128 346c30-20 66-18 92 8l-10 86-82 16-28-72 28-38z" fill="#f0f0ee" opacity="0.85"/>
+    <g transform="translate(85 300)">
+      <rect x="0" y="0" width="110" height="110" rx="30" fill="#f4d23b"/>
+      <circle cx="28" cy="38" r="16" fill="#111"/>
+      <circle cx="82" cy="38" r="16" fill="#111"/>
+      <path d="M34 76c16 12 42 12 58 0" fill="none" stroke="#111" stroke-width="8" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <g transform="translate(340 145)">
+    <path d="M180 0c70 0 126 54 126 122 0 52-29 92-72 112 4 16 12 28 24 38 16 14 26 25 30 38-42 22-85 26-130-12-18-16-28-40-30-62 8-7 18-18 28-32 26-37 34-70 34-104 0-26-4-50-10-80z" fill="url(#gold)" opacity="0.88"/>
+    <path d="M145 58c60 32 82 66 86 124-18-2-30-4-42-14-44 8-68-10-112-86 22-20 44-28 68-24z" fill="#0d1e31" opacity="0.85"/>
+    <path d="M160 15c52-6 100 22 148 84-18-1-40 10-40 34 18 1 34 4 54 12 2 26-6 44-30 62-68 52-122 44-172-42 12-58 24-106 40-150z" fill="#d7a91c" opacity="0.9"/>
+  </g>
+
+  <g transform="translate(0 0)">
+    <path d="M500 420l-18 60 110 84 20-64z" fill="#0d2038"/>
+    <path d="M792 400l20 64-110 86-18-60z" fill="#0d2038"/>
+  </g>
+
+  <g>
+    <path d="M297 450c66-46 118-56 184-36-16 46-20 100 8 146-88 56-172 54-244-10 2-28 20-76 52-100z" fill="#f7d438" opacity="0.8"/>
+    <path d="M885 470c70-44 126-32 170 52-40 60-70 102-118 116-84 24-162-14-180-70 26-38 69-84 128-98z" fill="#f7d438" opacity="0.75"/>
+  </g>
+
+  <g>
+    <path d="M350 526l0 460c0 0 5 56 54 108l142 0c57-28 74-60 84-110l0-458-280 0z" fill="#0b213f" opacity="0.94"/>
+  </g>
+
+  <g transform="translate(0 0)">
+    <path d="M370 650 L470 720 L530 690 L600 730 L670 700 L710 720 L760 700 L820 730 L850 700 L900 740 L930 700 L1040 795 L1040 950 L370 950 Z" fill="#0a203c" opacity="0.5"/>
+  </g>
+
+  <g transform="translate(0 0)">
+    <path d="M500 380c52 0 97 40 97 94 0 42-29 76-67 86l0 68 48 20 24 82-104 0 18-82 42-18 0-66c-42-16-72-49-72-92 0-54 45-94 97-94z" fill="#0d1f36" opacity="0.86"/>
+  </g>
+
+  <g transform="translate(0 0)">
+    <circle cx="432" cy="40" r="50" fill="#f7d43a" opacity="0.25"/>
+    <circle cx="818" cy="42" r="56" fill="#f7d43a" opacity="0.28"/>
+  </g>
+
+  <g transform="translate(0 0)">
+    <path d="M272 132c18 0 34 18 34 40s-16 40-34 40-34-18-34-40 16-40 34-40z" fill="#f8d53a"/>
+    <path d="M302 152c36 4 66 32 72 64-8 30-24 46-45 54-16 6-34 6-52 2-20-6-38-26-44-54 0-22 14-44 38-56 12-6 20-8 31-10z" fill="#f8d53a"/>
+    <path d="M243 160c12 20 14 48 4 76-14-8-32-18-46-34-12-18-12-38 6-60 16-14 28-18 36 18z" fill="#f8d53a"/>
+  </g>
+
+  <g transform="translate(0 0)">
+    <path d="M430 282c64-42 182-26 216 16 42 52 14 120-42 160s-122 68-182 36c-54-28-102-108-80-170 10-28 38-42 88-42z" fill="#f5d840" opacity="0.9"/>
+  </g>
+
+  <g>
+    <path d="M250 150c56 12 110 56 126 108-42 16-74 8-98-10-20-16-40-42-52-74 4-10 12-18 24-24z" fill="#c09051" opacity="0.2"/>
+  </g>
+
+  <g transform="translate(0 0)">
+    <path d="M382 772c-18-10-36-30-40-58 32-30 86-22 122 30l-82 28z" fill="#0d1d36" opacity="0.92"/>
+    <path d="M788 760c18-12 36-24 58-30 24 18 58 30 76 54-20 24-68 30-116 18l-18-42z" fill="#0d1d36" opacity="0.92"/>
+  </g>
+
+  <g>
+    <g transform="translate(360 100)">
+      <path d="M70 0c28 0 54 20 62 50l-50 18-28 4-22-16c-3-26 10-56 38-56z" fill="#573d25"/>
+      <path d="M95 52c18 18 34 42 40 68-26-10-50-4-74 18-18 16-28 36-34 56-16-2-30-14-40-32 10-60 42-96 108-110z" fill="#5a3f27"/>
+    </g>
+
+    <g transform="translate(470 110)">
+      <path d="M38 0c18 0 34 18 34 40s-16 40-34 40S4 62 4 40 20 0 38 0z" fill="#552d1d"/>
+      <path d="M72 76c46 20 78 4 112-48-16 62-54 91-96 104-48 16-94-8-126-64 22-8 60-18 110 8z" fill="#5b3525"/>
+    </g>
+  </g>
+
+  <g>
+    <ellipse cx="470" cy="118" rx="70" ry="52" fill="#ebc788" opacity="0.6"/>
+    <ellipse cx="750" cy="140" rx="76" ry="52" fill="#ebc788" opacity="0.5"/>
+  </g>
+
+  <g transform="translate(550 110)">
+    <path d="M130 240c-50 0-90-38-90-90s40-90 90-90 90 38 90 90-40 90-90 90zm0-32c32 0 58-26 58-58s-26-58-58-58-58 26-58 58 26 58 58 58z" fill="#f3d496" opacity="0.9"/>
+  </g>
+
+  <g>
+    <path d="M380 110c44 0 88 18 112 54-42 8-58 16-94 44-30 28-36 64-46 104-22-18-40-48-44-78 12-54 34-104 72-124z" fill="#4d3623" opacity="0.55"/>
+  </g>
+
+  <g>
+    <g transform="translate(0 0)">
+      <path d="M962 245c40 26 66 48 104 88-32 18-70 14-102-8-26-18-48-52-60-74 18-12 30-12 58-6z" fill="#0b1d35" opacity="0.85"/>
+    </g>
+  </g>
+
+  <g transform="translate(0 0)">
+    <path d="M918 760c16-18 48-42 84-44-4 30-10 52-34 68-20 14-44 18-70 24 8-18 12-30 20-48z" fill="#f7d640" opacity="0.88"/>
+  </g>
+
+  <g>
+    <path d="M180 390l-110 10c-30 2-54 26-54 52 0 26 22 48 48 48 15 0 30-8 40-20l90-90z" fill="#f7d63d" opacity="0.9"/>
+    <path d="M1030 360l108 8c32 2 58 28 58 58 0 28-22 52-50 52-18 0-34-8-46-24l-70-94z" fill="#f7d63d" opacity="0.82"/>
+  </g>
+
+  <g>
+    <text x="720" y="285" text-anchor="middle" font-size="118" font-family="Arial Black, Impact, sans-serif" font-weight="900" letter-spacing="-6" fill="#f7d537" style="paint-order:stroke; stroke:#051526; stroke-width:8; stroke-linejoin:round;">YOUR</text>
+    <text x="720" y="420" text-anchor="middle" font-size="130" font-family="Arial Black, Impact, sans-serif" font-weight="900" letter-spacing="-6" fill="#f7d537" style="paint-order:stroke; stroke:#051526; stroke-width:8; stroke-linejoin:round;">VOICE</text>
+    <text x="720" y="535" text-anchor="middle" font-size="118" font-family="Arial Black, Impact, sans-serif" font-weight="900" letter-spacing="-5" fill="#f7d537" style="paint-order:stroke; stroke:#051526; stroke-width:8; stroke-linejoin:round;">MATTERS!</text>
+  </g>
+
+  <g transform="translate(780 550)">
+    <rect x="0" y="0" width="300" height="6" fill="#f5d13b" opacity="0.9"/>
+    <g transform="translate(0 24)">
+      <g transform="translate(0 0)">
+        <rect x="0" y="0" width="26" height="26" rx="6" fill="#f5ce2e"/>
+        <path d="M8 14l7 8 12-16" fill="none" stroke="#0d203b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="42" y="22" font-family="Arial Black, Impact, sans-serif" font-size="34" font-weight="900" fill="#f5ce2e" letter-spacing="-2">LISTEN</text>
+      </g>
+      <g transform="translate(0 62)">
+        <rect x="0" y="0" width="26" height="26" rx="6" fill="#f5ce2e"/>
+        <path d="M8 14l7 8 12-16" fill="none" stroke="#0d203b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="42" y="22" font-family="Arial Black, Impact, sans-serif" font-size="34" font-weight="900" fill="#f5ce2e" letter-spacing="-2">SUPPORT</text>
+      </g>
+      <g transform="translate(0 124)">
+        <rect x="0" y="0" width="26" height="26" rx="6" fill="#f5ce2e"/>
+        <path d="M8 14l7 8 12-16" fill="none" stroke="#0d203b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="42" y="22" font-family="Arial Black, Impact, sans-serif" font-size="34" font-weight="900" fill="#f5ce2e" letter-spacing="-2">REPRESENT</text>
+      </g>
+      <g transform="translate(0 186)">
+        <rect x="0" y="0" width="26" height="26" rx="6" fill="#f5ce2e"/>
+        <path d="M8 14l7 8 12-16" fill="none" stroke="#0d203b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+        <text x="42" y="22" font-family="Arial Black, Impact, sans-serif" font-size="34" font-weight="900" fill="#f5ce2e" letter-spacing="-2">TAKE ACTION</text>
+      </g>
+    </g>
+  </g>
+
+  <g transform="translate(0 0)">
+    <rect x="64" y="780" width="1072" height="190" rx="18" fill="#f4d33b" opacity="0.95" filter="url(#shadow)"/>
+    <text x="600" y="870" text-anchor="middle" font-size="128" font-family="Arial Black, Impact, sans-serif" font-weight="900" fill="#071d38" letter-spacing="-6">BRYCE MCPHERSON</text>
+    <text x="600" y="935" text-anchor="middle" font-size="48" font-family="Arial Black, Impact, sans-serif" font-weight="900" fill="#071d38" letter-spacing="1">FOR 6TH GRADE VICE PRESIDENT</text>
+  </g>
+
+  <g transform="translate(0 0)">
+    <g transform="translate(110 1010)">
+      <circle cx="92" cy="68" r="62" fill="#f8d84b"/>
+      <circle cx="92" cy="68" r="47" fill="none" stroke="#091d35" stroke-width="8"/>
+      <circle cx="70" cy="60" r="8" fill="#091d35"/>
+      <circle cx="112" cy="60" r="8" fill="#091d35"/>
+      <path d="M66 78c10 14 20 20 28 20 13 0 22-12 28-20" fill="none" stroke="#091d35" stroke-width="6" stroke-linecap="round"/>
+      <path d="M92 20v22" stroke="#091d35" stroke-width="6" stroke-linecap="round"/>
+      <path d="M92 116v18" stroke="#091d35" stroke-width="6" stroke-linecap="round"/>
+      <path d="M34 78l18-10" stroke="#091d35" stroke-width="6" stroke-linecap="round"/>
+      <path d="M150 78l-18-10" stroke="#091d35" stroke-width="6" stroke-linecap="round"/>
+      <text x="92" y="160" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="30" fill="#f7d437" letter-spacing="-2">STRONGER</text>
+      <text x="92" y="196" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="30" fill="#f7d437" letter-spacing="-2">STUDENTS</text>
+    </g>
+
+    <g transform="translate(360 1010)">
+      <circle cx="92" cy="68" r="62" fill="#f8d84b"/>
+      <path d="M92 30v50" stroke="#091d35" stroke-width="8" stroke-linecap="round"/>
+      <path d="M92 106v18" stroke="#091d35" stroke-width="8" stroke-linecap="round"/>
+      <path d="M54 90h76" stroke="#091d35" stroke-width="8" stroke-linecap="round"/>
+      <circle cx="92" cy="72" r="26" fill="none" stroke="#091d35" stroke-width="8"/>
+      <text x="92" y="160" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="30" fill="#f7d437" letter-spacing="-2">BIGGER</text>
+      <text x="92" y="196" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="30" fill="#f7d437" letter-spacing="-2">IDEAS</text>
+    </g>
+
+    <g transform="translate(610 1010)">
+      <circle cx="92" cy="68" r="62" fill="#f8d84b"/>
+      <circle cx="64" cy="70" r="14" fill="#091d35"/>
+      <circle cx="118" cy="70" r="14" fill="#091d35"/>
+      <path d="M54 86c18 20 40 28 76 0" fill="none" stroke="#091d35" stroke-width="8" stroke-linecap="round"/>
+      <path d="M62 36c18-24 30-32 60-30" fill="none" stroke="#091d35" stroke-width="8" stroke-linecap="round"/>
+      <path d="M118 36c-18-24-30-32-60-30" fill="none" stroke="#091d35" stroke-width="8" stroke-linecap="round"/>
+      <text x="92" y="160" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="30" fill="#f7d437" letter-spacing="-2">BETTER</text>
+      <text x="92" y="196" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="30" fill="#f7d437" letter-spacing="-2">COMMUNITY</text>
+    </g>
+
+    <g transform="translate(860 1010)">
+      <circle cx="92" cy="68" r="62" fill="#f8d84b"/>
+      <path d="M50 92h84v20H50z" fill="#091d35"/>
+      <path d="M70 46h44v40H70z" fill="#091d35"/>
+      <path d="M62 32h60l-12 18H74z" fill="#091d35"/>
+      <path d="M48 54h18v44H48z" fill="#091d35"/>
+      <path d="M124 54h18v44h-18z" fill="#091d35"/>
+      <text x="92" y="160" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="30" fill="#f7d437" letter-spacing="-2">BRIGHTER</text>
+      <text x="92" y="196" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="30" fill="#f7d437" letter-spacing="-2">TOMORROW</text>
+    </g>
+  </g>
+</svg>
