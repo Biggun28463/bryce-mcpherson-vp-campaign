@@ -4,39 +4,39 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Bryce McPherson for Vice President</title>
-    <meta name="description" content="Bryce McPherson for 6th Grade Vice President" />
     <style>
-      * {
+      * { box-sizing: border-box; }
+      html, body {
         margin: 0;
-        padding: 0;
-        box-sizing: border-box;
+        min-height: 100%;
+        background: #081c38;
       }
-
       body {
-        background: #000;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 0;
+      }
+      .poster-frame {
+        width: 100%;
+        min-height: 100vh;
         display: flex;
         align-items: center;
         justify-content: center;
-        min-height: 100vh;
-        font-family: Arial, sans-serif;
+        background: #081c38;
       }
-
-      .container {
-        width: 100%;
-        max-width: 600px;
-        padding: 20px;
-      }
-
-      img {
-        width: 100%;
-        height: auto;
+      .poster-frame img {
         display: block;
+        width: min(100vw, 1100px);
+        height: auto;
+        max-height: 100vh;
+        object-fit: contain;
       }
     </style>
   </head>
   <body>
-    <div class="container">
-      <img src="https://github.com/Biggun28463/bryce-mcpherson-vp-campaign/raw/main/poster.jpg" alt="Bryce McPherson for 6th Grade Vice President" />
+    <div class="poster-frame">
+      <img src="poster.svg" alt="Bryce McPherson for 6th Grade Vice President campaign poster" />
     </div>
   </body>
 </html>
